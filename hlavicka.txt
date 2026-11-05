@@ -6,8 +6,6 @@
   <title>Moja stránka</title>
 </head>
 <body>
-  <header>
-    <h1>Moja webová stránka</h1>
-  </header>
+
 </body>
 </html>
