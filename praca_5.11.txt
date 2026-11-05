@@ -1,0 +1,5 @@
+vytvorit repo
+vytvorit html subory
+urobit im zakladnu kostru
+nastavit title-y
+prepojit spolocny style.css
